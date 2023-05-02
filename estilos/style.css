@@ -49,6 +49,9 @@ p {
   
 }
 
+a + a {
+ margin-left: 28px;
+}
 
 #flower {
   width: 100px;
