@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Fontes :
+font-family: 'Inter', sans-serif;
+font-family: 'Open Sans', sans-serif;
+ */
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+#mae-e-filha {
+  width: 348px;
+  height: 223px;
+  margin-bottom: 72px;
+}
+
+#hero {
+  width: 592px;
+  margin:0 auto 72px;
+  
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  margin-bottom: 32px;
+}
+
+h1 span {
+  color: orange;
+  font-weight: bold;
+}
+
+span,
+a {
+  color: #ff9900;
+}
+
+p {
+  color: #7d7987;
+  font-size: 14px;
+  line-height: 28px;
+  
+}
+
+
+#flower {
+  width: 100px;
+}
