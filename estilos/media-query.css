@@ -1,0 +1,31 @@
+/* Media Query */
+/* Para pequenas telas e celulares */
+
+@media screen and (min-width: 500px) and (max-width: 768px) {
+  * {
+    width: 100vw;
+  }
+
+  body, html {
+    text-align: center;
+  }
+
+  #mae-e-filha {
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .line {
+    width: 300px;
+  }
+
+  #flower {
+    display: none;
+  }
+
+  footer {
+    margin-bottom: 10px;
+  }
+}
