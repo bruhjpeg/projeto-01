@@ -48,6 +48,10 @@ footer {
   line-height: 28px;
 }
 
+footer {
+  margin-bottom: 28px;
+}
+
 a + a {
   margin-left: 28px;
 }
