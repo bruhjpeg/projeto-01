@@ -20,8 +20,7 @@ body {
 
 #hero {
   width: 592px;
-  margin:0 auto 72px;
-  
+  margin: 0 auto 72px;
 }
 
 h1 {
@@ -42,27 +41,27 @@ a {
   color: #ff9900;
 }
 
-p, footer{
+p,
+footer {
   color: #7d7987;
   font-size: 14px;
   line-height: 28px;
-  
 }
 
-
-
 a + a {
- margin-left: 28px;
+  margin-left: 28px;
 }
 
 .line {
   width: 568px;
   height: 0px;
- border: 1px solid  #ECEFF2;
- margin: 0px auto 8px;
- 
+  border: 1px solid #eceff2;
+  margin: 0px auto 8px;
 }
 
 #flower {
   width: 100px;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
 }
